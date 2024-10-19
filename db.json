@@ -1,0 +1,22 @@
+{
+ "user":[
+    {
+        "id": "1",
+        "name":"ajmal",
+        "email":"ishartjahan82@gmail.com",
+        "password":"1234",
+        "gender": "male",
+        "hobby":[
+            "Gaming",
+            "Coading",
+            "Reading"
+        ],
+        "city":"surat",
+        "address":"rander"
+    }
+ ],
+ "admin": [],
+    "profile": {
+      "name": "typicode"
+    }
+}

@@ -1,0 +1,79 @@
+.container {
+    max-width: 600px;
+    margin: 5rem auto;
+    background-color: #fff7e1; /* Light mango background */
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+    font-family: 'Arial', sans-serif;
+}
+
+h2 {
+    color: #ff9800; /* Mango shade for heading */
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+label {
+    color: #f57c00; /* Rich mango tone for labels */
+    font-weight: 600;
+    font-size: 16px;
+    display: block;
+    margin-bottom: 8px;
+}
+
+.form-control {
+    border: 2px solid #ffd54f; /* Yellowish border */
+    border-radius: 8px;
+    padding: 12px;
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+
+input[type="radio"], input[type="checkbox"] {
+    margin-right: 8px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+button {
+    background-color: #ff6f00; /* Mango-colored button */
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #e65100; /* Darker shade on hover */
+}
+
+textarea, select {
+    border: 2px solid #ffd54f;
+    border-radius: 8px;
+    padding: 10px;
+    font-size: 14px;
+}
+
+.btn-link {
+    color: #ff6f00;
+    font-weight: bold;
+    text-decoration: none;
+    margin-bottom: 20px;
+    display: inline-block;
+}
+
+.btn-link:hover {
+    color: #e65100;
+    text-decoration: underline;
+}
+
+input[type="radio"], input[type="checkbox"] {
+    margin-right: 10px;
+    transform: scale(1.2); /* Slightly larger checkboxes */
+}
